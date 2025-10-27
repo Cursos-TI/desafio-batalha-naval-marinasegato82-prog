@@ -1,5 +1,4 @@
 
-
 # Tamanho do tabuleiro (5x5)
 TAMANHO = 5
 NUM_NAVIOS = 3  # quantidade de navios
